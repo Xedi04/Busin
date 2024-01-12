@@ -1,0 +1,40 @@
+@mixin flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin mini{
+    width: 100%;
+    @include flex;
+}
+
+@mixin column {
+display: flex;
+flex-direction: column;
+gap: 30px;
+}
+
+@mixin head{
+    @include column;
+    h5{
+        font-size: 18px;
+        font-weight: 300;
+        color: $red;
+    }
+    h2{
+        font-size: 45px;
+        font-weight: 800;
+    }
+}
+
+@mixin btn{
+    width: 200px;
+    padding: 20px 0;
+    color: white;
+    margin-top: 20px;
+    border: none;
+    background-color: $red;
+    font-weight: 700;
+    cursor: pointer;
+}

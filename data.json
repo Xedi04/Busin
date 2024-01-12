@@ -1,0 +1,29 @@
+{
+  "Busin": [
+    {
+      "id": 1,
+      "name": "Strategy Planning",
+      "image": "./assets/image/services2.svg",
+      "des": "There are many variations of passages of lorem Ipsum available but the new majority have suffered."
+    },
+    {
+      "id": 2,
+      "name": "Insurance Service",
+      "image": "./assets/image/services3.svg",
+      "des": "There are many variations of passages of lorem Ipsum available but the new majority have suffered."
+    },
+    {
+      "id": 3,
+      "name": "Audit & Evaluation",
+      "image": "./assets/image/services4.svg",
+      "des": "There are many variations of passages of lorem Ipsum available but the new majority have suffered."
+    },
+    {
+      "name": "ewrf",
+      "des": "awerg",
+      "image": "data:image/webp;base64,UklGRkAEAABXRUJQVlA4WAoAAAAQAAAAlQAAHQAAQUxQSIICAAABfyAQSFLYH3iFiEgd6GrbtjhuHrEcZoZJiwozLEyginQA4aRibZhnT8DQpbPcpbRSk9kuw9Ax0zJKmqeY0QguHUBE/yeA8Z0NGcczwpvGomOG6fzQ5nq6Nz9WjfjFYTVi1RfGpfE90NZhrZtaGhMdyXWxu8OnO1bHqWE0pLYLBZhvMU5M54e04osApcRsmEubClPCc4bVNywmgrDQZ9NTE0Dwlx4oMmXUjH0Pgi29k6Z1aFpPtE0Wp4xYtfKHCxWY6vnDudYTHat9flHdTWC0pVb4WbU8tGXfVyNYV1tpWk67LnbnCa3gD34SW2PLd7+3km3+I/3oo0Ji0d4P/2g+iN15wn7FtLYtWLeGPsQhIzrmeJBsoEDaQvGMrpU9fpZja6BlT4WmEVqm4X46FmEUL8KaJ31uDX4caN0qBB7ABcADbHigNJLTYNGTlzwF2v3KaRuWAH/AA2n79IfzR3FyyqonZ+hY7VdMmIE/9IfCGFQzbHpqv1LihyxnHNfLRrbiyRlWfDFRYt0qBB7IAkd9rOlj0B7BoqdmaLtQgGaLZU+FplGWHE2jprthZQQHrcNP1ml+VLoudlf4dMdq2xasW8vw4SXs87HrXChMxf26Fgd53IVi0LXOujXWTS1dF7vzhFYyxAtvdj2Nnge6B3yMbd+6jS33f1DJRtdknW0jGnHiBfhFdTcZ1tWFAqvqw0asacTP6kkDfKV+Zp1N6zDX0715CP7SA8UsU129Eho9W1cY0dTnua6jOwY44zs/e9U6h9wBBOFNpM6GOTIH4TkA14U5ktM3AUF4DkOc9164icl40NOZmGueMhm+fZC52PJk6Kl+xkQM4sQlk4HH/9ZnSAVWUDggmAEAADAJAJ0BKpYAHgA+ZSiSRaQiohs63gBABkSgLgA+QBHONQms6RczrQV0q/H6Bv8BujPEz9VDTR96TAZCDfeMQBB6vQOVvSW1pGiSCeVc8I2hDsAA/vyl1HgWuhqiWyxP9+JoRIfwc6fi1M3kiEMWcqpJik1rP/Vf7Av/8nG8J5hQlGvz1l98V6Pe8sBJvztXr4R/v/91//+ThBautJSaFS/e1swm3lX6o9rhn9696RmvuCy9YmEp3b9z4mI6TlH82l18LbdpSEqytbZHaJDwzCC0DDSk5P++TfTh4gGLLTvJL+V4H/v6BwlOf4tF/HjXXu6Xk0DKiOwCpR1nfzWvvC8KxM8RqNAfyYspnjKXD7akJd+jEs7RWw0+IxQmlJP/w3O7Qmau/490L6GbuXXpTHUT0CUFv/6MwNekoCffT/w+pu0QgGkpgvOKkLVRB9ivowk1Iv/nwAE00YJ9wDoDODuVrPPZ0TgWRxBj0g359voK/bIfuPLLl86z3imV/+Ed/81IGnQdX/gf8r4w1zP/gf8r4w1v4AAAAA==",
+      "id": 4
+    }
+  ],
+  "Fav": []
+}
